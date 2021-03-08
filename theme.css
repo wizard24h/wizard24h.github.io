@@ -1,0 +1,334 @@
+@media only screen and (min-width: 900px) {
+  .actionsbar--Z1ant6U {
+    position: fixed;
+    right: 0px;
+    width: 30%;
+    height: 70px !important;
+    z-index: 1000;
+  }
+
+  .navbar--Z2lHYbG {
+    z-index: 100;
+    position: fixed;
+    right: 30%;
+    height: 70px !important;
+  }
+
+  .content--2jo8b8 .navbar--Z2lHYbG {
+    left: 140px;
+  }
+
+  .noPanelContent--25e0OI .navbar--Z2lHYbG {
+    left: 0px;
+  }
+
+  .wrapper--Z20hQYP > div:nth-child(2), .userlistPad--o5KDX, .wrapper--Z20hQYP > div:nth-child(4), .wrapper--Z20hQYP > div:nth-child(5) {
+    margin-top: 70px;
+  }
+
+  .media--Z1xJW08 {
+    margin-top: 70px;
+  }
+
+  .isTalkingWrapper--ZuCcDk {
+    margin-bottom: 7px;
+  }
+
+  .branding--Z1T4eH0 {
+    padding-left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 140px;
+    height: 70px;
+  }
+
+  .branding--Z1T4eH0 img {
+    max-height: 80% !important;
+    margin: 7px;
+  }
+
+  .center--2pV1iJ {
+    justify-content: flex-end;
+  }
+
+  .bottom--2oxmox {
+    position: fixed;
+    margin-left: 30px;
+  }
+
+  .top-left--Z1G8Sn0 {
+    top: 100%;
+  }
+
+  .overlay--nP1TK.fullWidth--Z1RRil3 {
+    min-width: 140px !important;
+    max-width: 100%;
+    position: absolute !important;
+  }
+}
+body, .background--2m5HNk {
+  background-color: rgb(236, 244, 250);
+}
+.actionsbar--Z1mcyA0 .right--DUFDc {
+  display: none;
+}
+.actionsbar--Z1ant6U {
+  background-color: white;
+  border-bottom: solid grey 1px;
+}
+.navbar--Z2lHYbG {
+  background-color: white;
+  border-bottom: solid grey 1px;
+}
+.noPanelContent--25e0OI .navbar--Z2lHYbG {
+}
+.recordingIndicatorIcon--1aoKxW circle {
+  stroke: black;
+}
+
+.recordingIndicatorIcon--1aoKxW circle:nth-child(2) {
+  fill: black;
+}
+
+.ghost--Z136aiN.default--Z19H5du {
+  color: #9c4e00 !important;
+}
+
+.ghost--Z136aiN.primary--1IbqAO:hover {
+  background-color: initial !important;
+}
+
+.arrowLeft--1CFBz1, .arrowRight--Zbqp1D {
+  color: black;
+}
+
+.btn--Z12eHso span, .btn--29prju span, .btn--ZGSiQH span {
+  border: 2px solid #9c4e00 !important;
+  /*         border-color: black !important; */
+}
+
+.presentationTitle--1LT79g {
+  color: black;
+}
+
+.recordingControlOFF--26cqft span {
+  color: black !important;
+}
+
+.recordingControlOFF--26cqft {
+  border: var(--border-size-small) solid black;
+}
+.branding--Z1T4eH0 {
+  background-color: white;
+  border-bottom: solid grey 1px;
+}
+.center--2pV1iJ {
+  justify-content: flex-end;
+}
+.chatNameMain--Z1S9hh4, .noteTitle--DWw20 {
+  display: none;
+}
+.wrapper--Z20hQYP > div:nth-child(2) {
+  min-width: 50px !important;
+  width: fit-content !important;
+}
+.userList--Z2q1D0p {
+  background-color: rgb(178, 53, 0);
+}
+.userItemContents--C2UQJ {
+  display: block;
+}
+.userAvatar--1GxXQi {
+  margin: 0 auto;
+  width: 32px;
+}
+
+.userName--6aS3s {
+  margin-top: 5px;
+  margin-left: 0px;
+}
+
+/*side menu   */
+.smallTitle--2wz4kP, .dropdown--Z10dYoc.dropdown--1yLtov {
+  /* position: relative; */
+  padding: 0px;
+  color: white;
+  text-align: center;
+}
+
+.actionsbar--Z1ant6U .button--Z2dosza:hover {
+  border-color: #ac5b00 !important;
+  background-color: #ac5b00 !important;
+}
+
+.actionsbar--Z1ant6U .button--Z2dosza:hover i {
+  color: white;
+}
+
+.userListColumn--6vKQL .smallTitle--2wz4kP {
+  text-align: left;
+  padding-left: 5px;
+  margin-right: 20px;
+}
+
+.icon-bbb-copy, .icon--2q1XXw {
+  /*         color: #005bac;  */
+  margin: 0 auto !important;
+}
+
+.navbar--Z2lHYbG .button--Z2dosza:hover i {
+  color: black;
+}
+
+.button--Z2dosza {
+  box-shadow: none !important;
+}
+
+.buttonWrapper--x8uow:hover i {
+  /*         color: blue !important; */
+}
+
+.chatIcon--ZA50df {
+  margin-left: 15px;
+}
+
+.list--Z2pj65C {
+  margin: 0 !important;
+}
+
+.listItem--Siv4F, .userItemContents--C2UQJ, .chatListItem--Z2sTdzU {
+  width: 60px;
+  border-radius: 5px;
+  padding-left: 0px !important;
+  background: inherit;
+  margin: 0 auto;
+}
+
+.active--Z1SuO2X, .usertListItemWithMenu--Z27EKt2 {
+  background-color: white;
+}
+
+.active--Z1SuO2X .icon-bbb-group_chat, .usertListItemWithMenu--Z27EKt2 .userNameMain--2fo2zM {
+  height: auto;
+  width: 100%;
+  display: block;
+  text-align: center;
+  color: #b23500 !important;
+}
+
+.userListItem--Z1qtuLG:hover, .listItem--Siv4F:hover {
+  background-color: #ac5b00;
+}
+
+.scrollableList--Z2s6Her {
+  background: inherit;
+}
+
+.optionsButton--ZcRNoL i {
+  margin-left: 5px;
+}
+
+.optionsButton--ZcRNoL i {
+  color: white !important;
+}
+
+.userNameMain--2fo2zM {
+  flex-direction: column;
+  color: white;
+}
+.top-left--Z1G8Sn0 {
+  bottom: initial !important;
+}
+
+.top-left--Z1G8Sn0:after, .top-left--Z1G8Sn0:before {
+  border-left: var(--dropdown-caret-width) solid transparent;
+  border-right: var(--dropdown-caret-width) solid transparent;
+  border-bottom: var(--dropdown-caret-height) solid var(--dropdown-bg);
+  border-top: initial;
+  top: 0;
+  bottom: initial !important;
+  margin-top: calc(var(--dropdown-caret-height) * -1);
+}
+.videoList--1OC49P {
+  position: absolute;
+  right: 0px;
+}
+
+.dropZoneBottom--ZYMK7J, .dropZoneTop--A7khq {
+  height: 20% !important;
+}
+
+.overlay--nP1TK.overlayToBottom--Z1Punmf {
+  bottom: 0px;
+}
+
+.overlay--nP1TK.overlayToTop--1PLUSN {
+  top: 0px;
+}
+
+.buttonWrapper--x8uow[aria-disabled="true"] {
+  display: none;
+}
+
+.content--Z2nhld9 .message--Z2n2nXu {
+  border-radius: 5px;
+  width: fit-content;
+  min-width: 70px;
+  padding: 10px;
+  padding-right: 30px;
+  background-color: rgb(212, 242, 255);
+}
+
+.meta--ZDfdOI span {
+  font-family: arial;
+  font-weight: normal;
+}
+
+.content--Z2gO9GE {
+  max-height: 100% !important;
+}
+
+.primary--1IbqAO {
+  right: initial;
+
+}
+
+.systemMessage--ZYspJQ {
+  background: initial;
+  border: initial;
+  vertical-align: middle;
+}
+
+.systemMessage--ZYspJQ > * {
+  vertical-align: middle;
+}
+
+.systemMessage--ZYspJQ img {
+  width: 50px;
+}
+
+.userNameSub--1RuGj6 {
+  color: silver;
+  display: none;
+}
+
+.left--Z1rLKlO > *, .center--ZyfFaC > *, .right--DUFDc > * {
+  margin: 0 5px;
+}
+
+.messages--Z1feno8 {
+  display: none;
+}
+.icon-bbb-template_download {
+  font-size: 22px !important;
+  color: white !important;
+}
+.button--Z1nRJwz {
+  width: 50px;
+  height: 50px;
+  background: #b23500;
+  border-radius: 50%;
+}
+.left--18SBXP {
+  display: none
+}
